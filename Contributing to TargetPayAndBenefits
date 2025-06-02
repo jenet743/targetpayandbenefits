@@ -1,0 +1,61 @@
+We welcome and appreciate contributions from the community to make the TargetPayAndBenefits application even better! By contributing, you help us improve the tool for everyone. Please take a moment to review this document to understand how you can contribute effectively.
+
+Contribution Guidelines
+Be Respectful: Maintain a positive and inclusive environment. Treat everyone with respect and professionalism.
+
+Clear Communication: Clearly articulate your ideas, issues, and pull requests. Provide context and details where necessary.
+
+Quality Code: Ensure your code is clean, well-commented, and adheres to the project's coding standards. Write tests for new features or bug fixes.
+
+Stay Updated: Before starting work, pull the latest changes from the main branch to avoid merge conflicts.
+
+One Feature/Fix Per PR: Keep your pull requests focused on a single feature or bug fix to make reviews easier.
+
+How to Contribute
+Fork the Repository: Start by forking the targetpayandbenefits repository to your GitHub account.
+
+Clone Your Fork: Clone your forked repository to your local machine:
+
+git clone https://github.com/YourGitHubUsername/targetpayandbenefits.git
+
+Create a New Branch: Create a new branch for your feature or bug fix. Use a descriptive name (e.g., feature/add-receipt-upload, fix/login-bug).
+
+git checkout -b feature/your-feature-name
+
+Make Your Changes: Implement your changes, ensuring you follow the project's coding conventions.
+
+Test Your Changes: Thoroughly test your changes to ensure they work as expected and don't introduce new issues.
+
+Commit Your Changes: Commit your changes with a clear and concise commit message.
+
+git commit -m "feat: Add new receipt upload functionality"
+
+Push to Your Fork: Push your new branch to your forked repository on GitHub.
+
+git push origin feature/your-feature-name
+
+Open a Pull Request: Go to the original targetpayandbenefits repository on GitHub and open a new pull request from your branch. Provide a detailed description of your changes, why they are needed, and any relevant screenshots or steps to reproduce.
+
+Reporting Issues
+If you find a bug or encounter an issue, please report it on the GitHub Issues page. When reporting an issue, please include:
+
+A clear and concise title.
+
+A detailed description of the bug.
+
+Steps to reproduce the issue.
+
+Expected behavior vs. actual behavior.
+
+Screenshots or error messages, if applicable.
+
+Your operating system and browser version.
+
+Suggesting Features
+We love new ideas! If you have a feature suggestion, please open an issue on GitHub and label it as enhancement. Describe your idea clearly, explaining its benefits and potential use cases.
+
+Code of Conduct
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms. We are committed to fostering an open and welcoming environment.
+
+Review Process
+All pull requests will be reviewed by the maintainers. We aim to provide constructive feedback and collaborate to integrate your contributions efficiently. Be prepared for potential requests fo
